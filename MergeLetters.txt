@@ -1,0 +1,72 @@
+LetterName,Category,MergeFieldName
+BAR - Notice for Exemption,General,LetterDate
+BAR - Notice for Exemption,Grievance,ExemptionResults
+BAR - Notice for Exemption,Grievance,ExemptionResultsWithReason
+BAR - Notice for Exemption,Grievance,Representative
+BAR - Notice for Exemption,Grievance,RequestedExemption
+BAR - Notice for Exemption,Parcel,Address1
+BAR - Notice for Exemption,Parcel,Address2
+BAR - Notice for Exemption,Parcel,Address3
+BAR - Notice for Exemption,Parcel,Address4
+BAR - Notice for Exemption,Parcel,LegalAddress
+BAR - Notice for Exemption,Parcel,Name1
+BAR - Notice for Exemption,Parcel,Name2
+BAR - Notice for Exemption,Parcel,ParcelID_No_Swis
+BAR - Notice of Determination,General,LetterDate
+BAR - Notice of Determination,Grievance,FinalValue
+BAR - Notice of Determination,Grievance,GrievanceResults
+BAR - Notice of Determination,Grievance,Representative
+BAR - Notice of Determination,Grievance,TentativeAV
+BAR - Notice of Determination,Parcel,Address1
+BAR - Notice of Determination,Parcel,Address2
+BAR - Notice of Determination,Parcel,Address3
+BAR - Notice of Determination,Parcel,Address4
+BAR - Notice of Determination,Parcel,LegalAddress
+BAR - Notice of Determination,Parcel,Name1
+BAR - Notice of Determination,Parcel,Name2
+BAR - Notice of Determination,Parcel,ParcelID_No_Swis
+BAR - Null & Void,General,LetterDate
+BAR - Null & Void,Grievance,DenialReason
+BAR - Null & Void,Grievance,Representative
+BAR - Null & Void,Parcel,Address1
+BAR - Null & Void,Parcel,Address2
+BAR - Null & Void,Parcel,Address3
+BAR - Null & Void,Parcel,Address4
+BAR - Null & Void,Parcel,LegalAddress
+BAR - Null & Void,Parcel,Name1
+BAR - Null & Void,Parcel,Name2
+BAR - Null & Void,Parcel,ParcelID_No_Swis
+BAR - Stipulation,General,LetterDate
+BAR - Stipulation,Grievance,GrantedTotalValue
+BAR - Stipulation,Grievance,Representative
+BAR - Stipulation,Grievance,TentativeAV
+BAR - Stipulation,Parcel,Address1
+BAR - Stipulation,Parcel,Address2
+BAR - Stipulation,Parcel,Address3
+BAR - Stipulation,Parcel,Address4
+BAR - Stipulation,Parcel,LegalAddress
+BAR - Stipulation,Parcel,Name1
+BAR - Stipulation,Parcel,Name2
+BAR - Stipulation,Parcel,ParcelID_No_Swis
+School \ Town Prorata Notice,General,LetterDate
+School \ Town Prorata Notice,Parcel,Address1
+School \ Town Prorata Notice,Parcel,Address2
+School \ Town Prorata Notice,Parcel,Address3
+School \ Town Prorata Notice,Parcel,Address4
+School \ Town Prorata Notice,Parcel,Name1
+School \ Town Prorata Notice,Parcel,Name2
+School \ Town Prorata Notice,Parcel,ParcelID_No_Swis
+School \ Town Prorata Notice,Prorata,MunicipalProrataAmount
+School \ Town Prorata Notice,Prorata,ProrataEffectiveDate
+School \ Town Prorata Notice,Prorata,SchoolProrataAmount
+Town Prorata Notice,General,LetterDate
+Town Prorata Notice,Parcel,Address1
+Town Prorata Notice,Parcel,Address2
+Town Prorata Notice,Parcel,Address3
+Town Prorata Notice,Parcel,Address4
+Town Prorata Notice,Parcel,Name1
+Town Prorata Notice,Parcel,Name2
+Town Prorata Notice,Parcel,ParcelID_No_Swis
+Town Prorata Notice,Prorata,MunicipalProrataAmount
+Town Prorata Notice,Prorata,ProrataEffectiveData
+Town Prorata Notice,Prorata,ProrataEffectiveDate

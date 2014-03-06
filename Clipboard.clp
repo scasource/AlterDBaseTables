@@ -1,0 +1,17 @@
+TaxRollYr:2014
+CollectionType:VI
+CollectionNo:1
+WarrantDate:2/14/2014
+FiscalYear:2014-2015
+FullMktValueDate:
+AssessmentRollDate:
+PercentValue:
+TaxYear:2014
+DelinquencyDate:
+EndOfCollectionDate:2/28/2015
+EndOfNoPenalty_Date:4/1/2014
+BillingDate:
+LowUniformPercent:
+HighUniformPercent:
+LienDate:
+EstimatedStateAid:2500

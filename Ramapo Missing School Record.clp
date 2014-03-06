@@ -1,0 +1,17 @@
+TaxYear:2008
+CollectionType:SC
+SwisCode:392621
+SchoolCode:392602
+SchoolCodeKey:392602
+SBL:05601800020330000000
+ApplyToNo:0000009913
+PayDocNo:0000050823
+BatchNo:20080929B001
+Amount:6597.3
+PayCode:PAYMENT
+PayDate:9/29/2008
+BankDepositDate:9/30/2008
+ReceiptRequested:False
+ReceiptPrinted:False
+Reserved:
+QuarterlyPaymentREcord:
